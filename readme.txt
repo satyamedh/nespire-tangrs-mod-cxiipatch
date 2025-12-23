@@ -21,7 +21,7 @@ Mod by: tangrs (dt.tangr@gmail.com)
 [ Using NESpire ]
 
 First, you must have Ndless installed to use NESpire. Ndless can be found
-at http://www.ticalc.org/archives/files/fileinfo/426/42626.html.
+at https://github.com/ndless-nspire/ndless.
 
 There is no file selection screen yet; NESpire currently looks for a ROM
 following itself in its own .tns file, so you must concatenate NESpire
@@ -76,4 +76,5 @@ Emulator controls:
 * Saved games (e.g. in Zelda, Final Fantasy) are not yet implemented.
 * Marble Madness: Display of text window at beginning of level is glitchy.
 * Super Mario Bros. 3: Ground in title screen shakes up a down by 1 pixel.
+
 
