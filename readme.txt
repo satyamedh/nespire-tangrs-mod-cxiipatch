@@ -1,4 +1,4 @@
-NESpire v0.21 - tangrs mod
+NESpire v0.21 - tangrs mod - Vogtinator's CX II Patch
 
 [ About ]
 
@@ -14,6 +14,7 @@ found in this mod include:
 *   Ability to save and load states
 
 Original source: http://www.ticalc.org/archives/files/fileinfo/432/43217.html
+Vogtinator's CX II patch: https://gist.github.com/Vogtinator/e182f84ba9081e80c76044224c8036f6
 Original author: Korath_3 (korath3@gmail.com)
 Mod by: tangrs (dt.tangr@gmail.com)
 
@@ -75,3 +76,4 @@ Emulator controls:
 * Saved games (e.g. in Zelda, Final Fantasy) are not yet implemented.
 * Marble Madness: Display of text window at beginning of level is glitchy.
 * Super Mario Bros. 3: Ground in title screen shakes up a down by 1 pixel.
+
